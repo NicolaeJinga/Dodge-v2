@@ -17,5 +17,6 @@ The player has 5 abilities as its disposal:
 
 ## Usage
 
-* Player Moves with WASD, Arrow keys or with left Joystick
+* Enter to start and restart the game
+* Player Moves with WASD or Arrow keys
 * Player activates powers with keys J, K, L, U, I, for the 5 powers mentioned.
