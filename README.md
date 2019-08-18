@@ -4,7 +4,7 @@ New version of old Dodge project with new enemies, powers and HUD. Developed in 
 
 ## Project Description
 
-The goal is to collect points (stationary and moving) all while avoiding enemies (stationary, reflecting and chasing) in order to achieve a high score.
+The goal is to collect points (stationary and moving) all while avoiding enemies (stationary, reflecting and chasing) in order to achieve a high score. Everytime the player collects a prize (teal or yellow orb), an enemy will spawn. There is also an enemy displayed as a crosshair, which follows the player around and kills him if stays for too long without moving.
 
 ![](dodge.gif)
 
