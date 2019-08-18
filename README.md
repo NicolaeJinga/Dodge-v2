@@ -1,6 +1,6 @@
 # Dodge-v2 (October 2015)
 
-New version of old Dodge project. Developed in C++ and SFML. Rebuilt in August 2019 with SFML 2.5.1.
+New version of old Dodge project with new enemies, powers and HUD. Developed in C++ and SFML. Rebuilt in August 2019 with SFML 2.5.1.
 
 ## Project Description
 
